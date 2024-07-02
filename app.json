@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "tugas-pertemuan-10_2130511002_aldy-ramadani",
+    "slug": "snack-86f95228-9c6e-4da1-b330-f030b8731c14",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "daftar kontak teman sekelas "
+  }
+}
